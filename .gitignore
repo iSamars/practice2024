@@ -1,0 +1,6 @@
+# Ignore compiled Python bytecode files
+*.pyc
+# Ignore Python cache directories
+__pycache__/
+# Ignore editor-specific files
+.vscode/
