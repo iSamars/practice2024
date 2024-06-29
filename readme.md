@@ -6,9 +6,10 @@ git clone https://github.com/iSamars/practice2024.git
 ```
 либо скачайте архив репозитория.
 
-### Установите зависимости
+### Создайте виртуалное окружение и установите зависимости
 
 ```bash
+conda create --name <env> --file <this file>
 conda install --yes --file requirements.txt
 ```
 
